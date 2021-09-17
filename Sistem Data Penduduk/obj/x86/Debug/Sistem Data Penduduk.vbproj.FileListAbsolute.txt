@@ -1,0 +1,42 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.xml
+c:\users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.pdb
+C:\Users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataWargavb.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataRT.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Database1.sdf
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Splash.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.MenuUtama.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.View_Data_Warga.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.EditWarga.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.View_Data_RT.resources
+C:\Users\lenovo\Documents\Visual Studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.EditRT.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataAgenda.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Agenda.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Tentang.resources
+C:\Users\lenovo\documents\visual studio 2010\Projects\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.editAgenda.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.exe
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.xml
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.pdb
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Database1.sdf
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.exe
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.pdb
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\bin\Debug\Sistem Data Penduduk.xml
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataWargavb.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.EditRT.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataAgenda.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.editAgenda.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Splash.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.MenuUtama.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.DataRT.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Agenda.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Tentang.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.View_Data_RT.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.View_Data_Warga.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.EditWarga.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem_Data_Penduduk.Resources.resources
+C:\Users\lenovo\Documents\PERKULIAHAN\Semester 3\VB 2\Sistem Data Penduduk\Sistem Data Penduduk\obj\x86\Debug\Sistem Data Penduduk.vbproj.GenerateResource.Cache
